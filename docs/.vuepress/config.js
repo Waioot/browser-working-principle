@@ -1,7 +1,7 @@
 const { fs, path } = require('@vuepress/shared-utils')
 
 module.exports = ctx => ({
-  base: '/browser-working-principle/',
+  base: '/',
   locales: {
     '/': {
       lang: 'zh-CN',
